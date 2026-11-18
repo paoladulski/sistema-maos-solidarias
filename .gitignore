@@ -1,0 +1,21 @@
+# Arquivos temporarios do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Banco de dados local
+db.sqlite3
+
+# Configuracoes privadas
+.env
+.env.*
+
+# Arquivos do sistema
+.DS_Store
+
+# Arquivos temporarios
+*.log
